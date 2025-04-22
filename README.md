@@ -1,9 +1,5 @@
 Built a GUI-based application to demonstrate the functionality of core data structures with real-time visual feedback, making it easier to understand how they operate internally. Technologies: Java, Swing (JFrame), Eclipse IDE.
 📚 Data Structures Visualizer 💡  
-A Java Swing-based GUI application to understand and interact with fundamental Data Structures like Arrays, Stacks, Queues, and Linked Lists — perfect for students and beginners!
-
----
-
 📌 Features  
 ✅ Interactive GUI for learning core Data Structures  
 ✅ Operations on:
